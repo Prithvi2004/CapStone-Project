@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="homepage.css">
+    <script type="module" src="./homepage.js"></script>
+</head>
+
+<body>
+    <div id="popup" class="popup">Login Successful</div>
+    <div class="container">
+        <h1>User Information</h1>
+        <div class="user-info">
+            <p>First Name: <span id="loggedUserFName"></span></p>
+            <p>Last Name: <span id="loggedUserLName"></span></p>
+            <p>Email: <span id="loggedUserEmail"></span></p>
+            <p>Password: <span id="loggedUserPassword"></span> <!-- For testing only, remove in production --></p>
+        </div>
+        <div class="buttons">
+            <button id="chatBot"><a href="chatBot.html">Go to chatBot</a></button>
+            <button id="logout">Logout</button>
+        </div>
+    </div>
+    <script src="homepage.js"></script>
+</body>
+
+</html>
