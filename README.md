@@ -24,11 +24,11 @@ This repository contains a web application that includes user authentication and
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/Prithvi2004/CapStone-Project.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd yourrepository
+    cd CapStone-Project
     ```
 3. Open the project in your favorite code editor.
 
