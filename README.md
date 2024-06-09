@@ -47,6 +47,7 @@ This repository contains a web application that includes user authentication and
 - RapidAPI for chatbot functionality
 
 ## File Structure
+.
 ├── chatBot.html
 ├── firebaseauth.js
 ├── homepage.css
@@ -57,6 +58,7 @@ This repository contains a web application that includes user authentication and
 ├── script copy.js
 ├── script.js
 ├── style.css
+├── styles.css
 └── README.md
 
 - **index.html**: The entry point of the application. Contains the login and registration forms.
@@ -68,9 +70,11 @@ This repository contains a web application that includes user authentication and
 - **script.js**: Handles form submission and interactions on the login and registration page.
 - **script copy.js**: Manages the chatbot's interactions and API calls.
 - **style.css**: General styles for the application.
+- **styles.css**: Additional styles for various elements and responsiveness.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the coding conventions and include appropriate tests.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
