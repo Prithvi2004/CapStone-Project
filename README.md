@@ -47,7 +47,7 @@ This repository contains a web application that includes user authentication and
 - RapidAPI for chatbot functionality
 
 ## File Structure
-.
+```
 ├── chatBot.html
 ├── firebaseauth.js
 ├── homepage.css
@@ -60,7 +60,7 @@ This repository contains a web application that includes user authentication and
 ├── style.css
 ├── styles.css
 └── README.md
-
+```
 - **index.html**: The entry point of the application. Contains the login and registration forms.
 - **firebaseauth.js**: Handles Firebase Authentication for sign up and sign in.
 - **homepage.html**: Displays user information after login.
